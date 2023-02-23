@@ -7,7 +7,7 @@ class ReviewSerializer(serializers.ModelSerializer):
     class Meta:
         model = Review
         fields = '__all__'
-
+#nhckhcguls
 
 class ProfileSerializer(serializers.ModelSerializer):
     class Meta:
